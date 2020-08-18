@@ -21,4 +21,4 @@ const load = async () => {
 }
 
 load();
-bot.login(config.token);
+bot.login("NzM1ODc4NTgyODc4MDc3MDY5.XxmqVg.IdoxgbjelygMpoPhxwHRr9sh2O0")
