@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const config = require("./Storage/config.json");
-
+const packages = require("./package.js")
 const bot = new Discord.Client({
     disableEveryone: true,
     autoReconnect: true,
